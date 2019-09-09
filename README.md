@@ -18,6 +18,6 @@
     * Spotify dataset
     * ATP (tennis) dataset
 ## Examples:
-![fifa_ranking](https://github.com/Antanskas/Visualization-tasks/blob/master/fifa_ranking.png)
-![american_airlines_delays](https://github.com/Antanskas/Visualization-tasks/blob/master/american_airlines_delays.png)
-![candy_lmplot](https://github.com/Antanskas/Visualization-tasks/blob/master/candy_lmplot.png)
+![](https://github.com/Antanskas/Visualization-tasks/blob/master/plots/fifa_ranking.png)
+![](https://github.com/Antanskas/Visualization-tasks/blob/master/plots/american_airlines_delays.png)
+![](https://github.com/Antanskas/Visualization-tasks/blob/master/plots/candy_lmplot.png)
