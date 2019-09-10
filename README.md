@@ -1,12 +1,13 @@
 # Visualization-tasks
 
-* #### Idea: 
+* #### Idea: ![](https://github.com/Antanskas/Visualization-tasks/blob/master/repository_images/idea.png)
     * Visualize real-world data, make some basic assumptions on that, practice plotting with Seaborn
-* #### Environment: 
-    * Google colaboratory 
-* #### Datasets from: 
+* #### Environment: ![](https://github.com/Antanskas/Visualization-tasks/blob/master/repository_images/colab.png)
+    * Google colaboratory server
+    * Python 3
+* #### Datasets from: ![](https://github.com/Antanskas/Visualization-tasks/blob/master/repository_images/kaggle.png)
     * Kaggle 
-* #### Datasets:  
+* #### Datasets:  ![](https://github.com/Antanskas/Visualization-tasks/blob/master/repository_images/books.png)
     * FIFA ranking dataset 
     * Los Angeles museums dataset 
     * Flight delays dataset
